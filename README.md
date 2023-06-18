@@ -1,2 +1,3 @@
-# easymeter-session-extender
-If you have a digital electricity meter from Easymeter, which shall stay in the extended session in order to get more details like current power on the INFO-DSS (e.g. for the Tibber Pulse), this project provides the answer.
+# Session Extender for Easymeter electricity meter
+
+Our Easymeter electricity meter does not provide detailed data on the INFO DSS interface if it is in extended session mode. The extended session can be enabled by entering the PIN code. Unfortunately, it falls back to normal mode in case of 120s of inactivity. To keep it in extended session mode, this project blinks the IR every few seconds.
