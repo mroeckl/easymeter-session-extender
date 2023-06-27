@@ -47,6 +47,8 @@ More details can be found in this [article](https://medium.com/@mroeckl/höre-wa
 
 3. **Why havn't I simply used the MSB-DSS IR interface on the top?** _It is sealed by my meter operator and I am not allowed to remove it._
 
+4. **Where can I find this nice mount for the Tibber Pulse IR which is shown on the photo?** _Here you go: [Tibber Pulse Fixation for Easymeter.](https://www.thingiverse.com/thing:6083117)_
+
 ## Disclaimer
 
 This is a personal project. Usage of the provided information is on your own risk.
