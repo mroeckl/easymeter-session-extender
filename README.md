@@ -9,7 +9,7 @@ To keep it in extended mode, this project simply lets an IR LED blink towards th
 
 ## Hardware:
 
-- 1 Wemos D1 Mini Pro V3.0.0
+- 1 Wemos D1 Mini V3.0.0
 - IR LED (removed from an old TCRT5000)
 - 220 Ω Resistor
 - 2 2x5mm screws (I used 2x10mm cut in half)
@@ -22,9 +22,9 @@ The LED has to be exactly above D1 to point directly on the IR button of the Eas
 
 ## 3D Print
 
-Print [STL file](./PulseFixation.stl) with your 3D printer (no support structures needed) and fix the Wemos D1 Mini Pro with the screws. More details on my [Thingiverse](https://www.thingiverse.com/thing:6083115) project.
+Print [STL file](./PulseFixation.stl) with your 3D printer (no support structures needed) and fix the Wemos D1 Mini with the screws. More details on my [Thingiverse](https://www.thingiverse.com/thing:6083115) project.
 
-![3D Print with Wemos D1 Mini Pro](Hardware.png)
+![3D Print with Wemos D1 Mini](Hardware.png)
 
 ## More technical details
 
@@ -41,7 +41,7 @@ More details can be found in this [article](https://medium.com/@mroeckl/höre-wa
 
 ## FAQ
 
-1. **Why have I used a Wemos D1 Mini Pro - isn't it too powerful for this simple task?** _Absolutely but I had this hardware at home and I did not want to order new hardware._
+1. **Why have I used a Wemos D1 Mini - isn't it too powerful for this simple task?** _Absolutely but I had this hardware at home and I did not want to order new hardware._
 
 2. **Why didn't I simply enable the extended mode in the menu long term?** _This is not supported by the configuration of my electricity meter._
 
